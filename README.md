@@ -1,3 +1,5 @@
+<img src="https://github.com/steveny9911/steveny9911/blob/master/shakershaker.gif" width="50">
+
 ### Hi there 👋
 
 <!--
