@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/steveny9911/steveny9911/blob/master/zzz.gif">
-  <img align="left" src="zzz.gif" height=195 />
+  <img align="left" src="https://raw.githubusercontent.com/steveny9911/steveny9911/master/zzz.gif" height=195 />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=steveny9911&count_private=true&show_icons=true&theme=buefy" />
