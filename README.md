@@ -5,7 +5,7 @@
 - 🕊️ Watching Attack on Titan S3 (and many seasonals)
 - ⛰️ Playing 'A Short Hike'
 - 🍥 Chat with me about ramen~
-- 💌 ~~Goal: submit a pull request!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
+- 💌 ~~Goal: submit a pull request (no matter how simple)!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
 
 💤 💤💤
 
