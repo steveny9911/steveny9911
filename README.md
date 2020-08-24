@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 💻 I'm a computer engineering student
-- 🦀 I’m currently learning operating system and Rust
-- 🕊️ I'm currently watching Attack on Titan S3 (and many seasonals)
-- ⛰️ I'm currently playing 'A Short Hike'
+- 💻 Computer engineering student
+- 🦀 Learning operating system and Rust
+- 🕊️ Watching Attack on Titan S3 (and many seasonals)
+- ⛰️ Playing 'A Short Hike'
 - 🍥 Chat with me about ramen~
-- 💌 Goal: submit a pull request!
+- 💌 ~~Goal: submit a pull request!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
 
 💤 💤💤
 
