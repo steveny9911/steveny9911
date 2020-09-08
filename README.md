@@ -2,8 +2,8 @@
 
 - 💻 Computer engineering student
 - 🦀 Learning operating system and Rust
-- 🕊️ Watching Attack on Titan S3 (and many seasonals)
-- ⛰️ Playing 'A Short Hike'
+- 🕊️ Watching YKK
+- ⛰️ Playing 'inbento'
 - 🍥 Chat with me about ramen~
 - 💌 ~~Goal: submit a pull request (no matter how simple)!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
 
