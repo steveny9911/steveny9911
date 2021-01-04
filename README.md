@@ -1,14 +1,6 @@
 ### Hi there 👋
 
-- 💻 Computer engineering student
-- 🦀 Learning operating system and Rust
-- 🕊️ Watching YKK
-- ⛰️ Playing 'inbento'
-- 🍥 Chat with me about ramen~
-- 💌 ~~Goal: submit a pull request (no matter how simple)!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
-
 💤 💤💤
-
 
 <a href="https://github.com/steveny9911/steveny9911/blob/master/zzz.gif">
   <img align="left" src="https://raw.githubusercontent.com/steveny9911/steveny9911/master/zzz.gif" height=195 />
@@ -20,6 +12,13 @@
 
 <!--
 **steveny9911/steveny9911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 💻 Computer engineering student
+- 🦀 Learning operating system and Rust
+- 🕊️ Watching YKK
+- ⛰️ Playing 'inbento'
+- 🍥 Chat with me about ramen~
+- 💌 ~~Goal: submit a pull request (no matter how simple)!~~ [Done!](https://github.com/dqisme/wikipedia-reading-lists-chrome-extension/pull/11)
 
 Here are some ideas to get you started:
 
